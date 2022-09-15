@@ -58,6 +58,19 @@
     padding-bottom: 50px;
 }
 
+/* ---------------home page css */
+.brands-1{
+    background: url(../media/guitar122.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.brands-2{
+    background: url(../media/violin33333.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 @media (min-width: 992px) {
     .header-backspace {
         padding-top: 144px;
